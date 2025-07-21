@@ -2,6 +2,8 @@
 
 **Author:** Rose Miriti
 
+**Technical Mentor:** George Kamundia
+
 ---
 ## Business Understanding
 
